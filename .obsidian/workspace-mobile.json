@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f8b4c335e4bb8b21",
+        "id": "007509a8b6c75b6d",
         "type": "tabs",
         "children": [
           {
-            "id": "6d170b883ed28434",
+            "id": "0fed73b2aa11bde8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Welcome.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Welcome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Welcome.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -128,11 +120,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "121d0f034bd43e29",
+  "active": "0fed73b2aa11bde8",
   "lastOpenFiles": [
+    "2024-08-08.md",
     "Welcome.md",
     "Autistic_Asuka-_Yellow_Dress.png"
   ]
