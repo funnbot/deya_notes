@@ -11,7 +11,7 @@ A creepy cute monster themed farming simulator.
 Then write one or two paragraphs summarizing your game.
 Player character is a paranormal investigator going to the town of Dia Luna, upon initial explorations and #DiaLuna
 Add an image of video of your game here that demonstrates what the game is like.
-#DiaLuna 
+Dia Luna
 # Core
 
 This is the core of your game. Start by filling out these sections. Once filled out they should never change or change very little. Use them as a reference throughout development.

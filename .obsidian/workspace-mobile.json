@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#DiaLuna",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -133,8 +133,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4aeccca426ca2c0",
+  "active": "12aa96567fb5ad60",
   "lastOpenFiles": [
+    "Game design template.md",
     "Welcome.md",
     "Background Research/Excalidraw/Empty HPSF diagram.md",
     "Historical Problem Space Framework.md",
@@ -145,7 +146,6 @@
     "Background Research/notes on art style",
     "Background Research/Excalidraw",
     "Background Research",
-    "Game design template.md",
     "Game design template/Characters/Characters/Hades.md",
     "Game design template/Characters/Characters/Achilles.md",
     "Game design template/Characters/Characters/Zagreus.md",
