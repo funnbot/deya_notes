@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#DiaLuna",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "7fc35c91c4214856",
@@ -133,7 +133,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12aa96567fb5ad60",
+  "active": "d4aeccca426ca2c0",
   "lastOpenFiles": [
     "Welcome.md",
     "Background Research/Excalidraw/Empty HPSF diagram.md",
