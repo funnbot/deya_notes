@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "007509a8b6c75b6d",
+        "id": "77e4a0e54599f608",
         "type": "tabs",
         "children": [
           {
-            "id": "0fed73b2aa11bde8",
+            "id": "12aa96567fb5ad60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game design template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Game design template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Game design template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Game design template.md"
+          }
         }
       }
     ],
@@ -121,13 +129,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fed73b2aa11bde8",
+  "active": "12aa96567fb5ad60",
   "lastOpenFiles": [
-    "2024-08-08.md",
     "Welcome.md",
+    "Background Research/Excalidraw/Empty HPSF diagram.md",
+    "Historical Problem Space Framework.md",
+    "Using the Obsidian version of this GDD.md",
+    "Background Research/historical background/background research.md",
+    "Background Research/notes on art style/Art Style Notes.md",
+    "Background Research/historical background",
+    "Background Research/notes on art style",
+    "Background Research/Excalidraw",
+    "Background Research",
+    "Game design template.md",
+    "Game design template/Characters/Characters/Hades.md",
+    "Game design template/Characters/Characters/Achilles.md",
+    "Game design template/Characters/Characters/Zagreus.md",
+    "Game design template/Feature template/Testing plan/Build.md",
+    "Game design template/Feature template/Testing plan/Concept.md",
+    "Game design template/Feature template/Testing plan/Prototype.md",
+    "Game design template/Feature template/Resources produced by chopping trees/Deciduous.md",
+    "Game design template/Feature template/Resources produced by chopping trees/Evergreen tree.md",
+    "Game design template/Feature template/Resources produced by chopping trees/Bamboo.md",
+    "Game design template/Narrative summary/Level summary/Chapter 3.md",
+    "Game design template/Narrative summary/Level summary/Chapter 2.md",
+    "Game design template/Narrative summary/Level summary/Chapter 1.md",
+    "Game design template/Level summaries/Levels/Level 3.md",
+    "Game design template/Level summaries/Levels/Level 2.md",
+    "Game design template/Level summaries/Levels/Level 1.md",
+    "Game design template/Game loops/Untitled_drawing_(1).png",
+    "Game design template/Characters/Characters.md",
+    "Game design template/Characters/Characters",
+    "Game design template/Characters/Characters.csv",
+    "Game design template/Player motivation and progression/Untitled_drawing_(2).png",
+    "Game design template/Feature template/Testing plan.csv",
+    "Game design template/Feature template/Testing Plan Kanban.md",
+    "Game design template/Feature template/Resources produced by chopping trees.md",
+    "Game design template/Feature template/Testing plan.md",
+    "Game design template/Feature template/Resources produced by chopping trees.csv",
+    "Game design template/Feature template/Testing plan",
+    "Game design template/Feature template/Resources produced by chopping trees",
     "Autistic_Asuka-_Yellow_Dress.png"
   ]
 }
