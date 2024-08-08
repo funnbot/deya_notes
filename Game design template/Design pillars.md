@@ -16,6 +16,10 @@ Excitement, dread and tension of exploring the unknown. No idea what dangers/rew
 
 Uncontrollable outburst of emotion, fear, irrationality, laughter, weeping, etc. FTL style chain of "oh sh!t" dependencies, where a failure in one system can affect others, until you're suddenly in trouble.
 
+**The Thrill of Monster Fucking**
+
+People are horny
+
 # Further reading
 
 
