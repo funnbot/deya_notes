@@ -6,5 +6,5 @@
 
 ```dataview
 TABLE 
-FROM "Characters"
+FROM "./Characters/"
 ```
