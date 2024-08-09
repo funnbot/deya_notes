@@ -13,9 +13,21 @@ something_else: hello
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name",
-meta(link(file.path + "#Lame"))
 FROM "Characters"
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
