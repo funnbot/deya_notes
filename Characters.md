@@ -1,21 +1,44 @@
----
-something: 2
-something_else: hello
----
-
 
 | Name         | Relationships    | Description                                                                                                                       | Wants                                         | Needs                                  | Story arch         |
 | ------------ | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------- | ------------------ |
 | [[Zagreus]]  | Player character | "Prince of the underworld. Young spirited and rebellious. The player plays as this character, helping him escape the underworld." | To escape the underworld and find his mother. | To find understanding with his father. | The game starts... |
 | [[Hades]]    | Zagreus’ father  | ,,,                                                                                                                               |                                               |                                        |                    |
 | [[Achilles]] | ,,               | ,                                                                                                                                 |                                               |                                        |                    |
+|              |                  |                                                                                                                                   |                                               |                                        |                    |
 
 ```dataview
 TABLE WITHOUT ID
-file.link AS "Name",
-file.lists
+file.link AS "Name"
 FROM "Characters"
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,4 @@
----
-Name: Hades
----
-
+Name:: Hades
 Relationships: Zagreus’ father
 
 ## Lame
