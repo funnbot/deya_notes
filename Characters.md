@@ -5,9 +5,14 @@
 | [[Achilles]] | ,,               | ,                                                                                                                                 |                                               |                                        |                    |
 
 ```dataview
-TABLE AS "Name"
-FROM "Game design template/Characters"
+TABLE WITHOUT ID
+file.link AS "Name"
+
+FROM "Characters"
 ```
+
+
+
 
 
 
