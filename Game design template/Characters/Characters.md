@@ -5,5 +5,6 @@
 | [[Achilles]] | ,,               | ,                                                                                                                                 |                                               |                                        |                    |
 
 ```dataview
-from "Characters"
+TABLE 
+FROM "Characters"
 ```
