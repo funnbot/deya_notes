@@ -13,9 +13,12 @@ something_else: hello
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Name",
-file.lists
+embed("")
 FROM "Characters"
 ```
+
+
+
 
 
 
