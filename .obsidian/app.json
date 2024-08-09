@@ -22,5 +22,6 @@
     "editor:configure-toolbar",
     "editor:toggle-keyboard"
   ],
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showUnsupportedFiles": true
 }
