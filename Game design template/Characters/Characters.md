@@ -6,5 +6,6 @@
 
 ```dataview
 TABLE 
-FROM "./Characters/"
+FROM "Game design template/Characters"
 ```
+
