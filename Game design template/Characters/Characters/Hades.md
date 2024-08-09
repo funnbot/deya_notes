@@ -1,3 +1,0 @@
-# Hades
-
-Relationships: Zagreus’ father
