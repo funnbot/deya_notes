@@ -2,7 +2,7 @@
 
 Enjoy idle conversation and building relationships with npcs, potentially even romantic relationships : loop: talk to npc->learn more about them-> become friends or romantically inclined 
 
-Explore colorful dungeons for loots and special items to help you get stronger: loop: #PC  wishes to get a specific item-> #PC goes to where item is in dungeon, #PC 
+Explore colorful dungeons for loots and special items to help you get stronger: loop: #PC  wishes to get a specific item-> #PC goes to where item is in dungeon, #PC either acquires desired item or isn’t strong enough yet and there for-> #PC builds skill to defeat creatures in the dungeon easier
 
 
 In here write down your game loops. What does your player do moment by moment?
