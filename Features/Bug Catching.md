@@ -6,8 +6,10 @@ The impact of this feature will lead to hopefully some sort of bug exhibit where
 Uh hopefully whenever the #PC net collides with a bug on screen it will result in a catch, and as for its popularity? I guess? Animal crossing and Dinkum both feature a large museum and bug collecting mechanic which has been loved by players for years so I think people will like it.
 Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
 # Design
-#PC can carry a net in their inventory at all times if they wish and will be pressing the interact button to swing their net to catch bugs in front of them, if #PC just clicks interact with net they will swing at regular height, but if they hold int
+#PC can carry a net in their inventory at all times if they wish and will be pressing the interact button to swing their net to catch bugs in front of them, 
 ## Summary
+if #PC just clicks interact with net they will swing at regular height, but if they hold interact the #PC will crouch and hit the ground catching ground bugs instead of airborne ones
+
 Write down a summary of how the feature works. Include images or sketches if you have any.
 ## User journey
 Sketch out screens of what the player will see and do, step by step.
