@@ -4,7 +4,7 @@ Enjoy idle conversation and building relationships with npcs, potentially even r
 
 Explore colorful dungeons for loots and special items to help you get stronger: loop: #PC  wishes to get a specific item-> #PC goes to where item is in dungeon, #PC either acquires desired item or isn’t strong enough yet and there for-> #PC builds skill to defeat creatures in the dungeon easier-> #PC acquires desired item-> with new found strength there are now better items to reach for and #PC repeats the process. Loop: enter dungeon-> mine ores or gather loot-> become stronger to access more valuable items and resources.
 
-Farming, the #PC can till the land or ranch special monstery animals to gain their 
+Farming, the #PC can till the land or ranch special monstery animals to gain their products, these products sell for money which the #PC can use to upgrade their farm, buy gifts for npcs, or decorate th
 
 
 In here write down your game loops. What does your player do moment by moment?
