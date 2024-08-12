@@ -1,19 +1,6 @@
-# Farming
-## Context
 
-# Ranching
-## Context
 
-# Combat/dungeon crawling
-## Context
-# Friendship
-## Context
 
-# Bug catching
-## Context
-
-# Decorating 
-## Context 
 # Context
 Write a sentence or two about why this feature is necessary and how it came to be.
 ## Hypothesis
