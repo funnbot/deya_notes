@@ -12,12 +12,12 @@ if #PC just clicks interact with net they will swing at regular height, but if t
 
 Write down a summary of how the feature works. Include images or sketches if you have any.
 ## User journey
- .   P
- O/l     db  
+ .   P <— net
+ O/l   <— #PC   db  <— bug
  /l
   ^
 ## Flow
-Create a flow diagram of how the feature works.
+#PC gets request for bug from entomologist 
 ## Values
 If this is a feature that has values attached to it then define them here.
 Add a link to your [machinations](https://machinations.io/) diagram if you have one.
