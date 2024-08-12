@@ -6,6 +6,8 @@ Identify what your player’s core motivation is and how the player progresses.
 
 **Primary motivation**
 
+Primary motivation is to collect 
+
 What is your player’s primary motivation? What thing drives them in life? (See the talks and pdf in further reading for examples.)
 
 **Secondary motivations**
