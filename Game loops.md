@@ -1,5 +1,6 @@
-# Game loops
+# Core Game Loop
 
+# Secondary Game Loops
 Enjoy idle conversation and building relationships with npcs, potentially even romantic relationships : loop: talk to npc->learn more about them-> become friends or romantically inclined 
 
 Explore colorful dungeons for loots and special items to help you get stronger: loop: #PC  wishes to get a specific item-> #PC goes to where item is in dungeon, #PC either acquires desired item or isn’t strong enough yet and there for-> #PC builds skill to defeat creatures in the dungeon easier-> #PC acquires desired item-> with new found strength there are now better items to reach for and #PC repeats the process. Loop: enter dungeon-> mine ores or gather loot-> become stronger to access more valuable items and resources.
