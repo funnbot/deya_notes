@@ -7,6 +7,9 @@
 This is the core of your game. Start by filling out these sections. Once filled out they should never change or change very little. Use them as a reference throughout development.
 
 ### [[Design pillars]]
+ Creation and Development of your own special place that is designed just for you
+ Making friends
+ Building monetary wealth and exceeding in your desired field of gameplay (farming , combat, treasure hunting)
 ### [[Game loops]]
 ### [[Player motivation and progression]]
 # Features
