@@ -12,6 +12,8 @@ Bug catching maybe? I love love love bug catching in animal crossing and harvest
 
 
 
+
+
 In here write down your game loops. What does your player do moment by moment?
 
 # Core game loop
