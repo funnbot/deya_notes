@@ -3,9 +3,10 @@ Entomologist that lives in the village wants to expand their collection of live 
 ## Hypothesis
 The impact of this feature will lead to hopefully some sort of bug exhibit where the #PC can view the spoils of their work anytime with a cute detail about the bug. #PC will also receive treats to keep them interested in getting new bugs regardless if they do or don’t care about the exhibit as a final product.
 ## Measuring success
-Uh hopefully whenever the #PC net collides with a bug on screen it will result in a catch, and as for its popularity? I guess? Animal crossing and dinkum both feature a large museum and bug collecting mechanic which has been loved by players for years so I think people wil
+Uh hopefully whenever the #PC net collides with a bug on screen it will result in a catch, and as for its popularity? I guess? Animal crossing and Dinkum both feature a large museum and bug collecting mechanic which has been loved by players for years so I think people will like it.
 Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
 # Design
+
 ## Summary
 Write down a summary of how the feature works. Include images or sketches if you have any.
 ## User journey
