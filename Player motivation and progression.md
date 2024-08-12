@@ -18,6 +18,9 @@ What other motivations drive your player, if any.
 
 # Progression
 
+
+#PC wishes to get back to the human world / become human again, #PC is given the opportunity by 
+
 How does the core action in the game support your player’s primary motivation?
 
 For example:
