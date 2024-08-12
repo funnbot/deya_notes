@@ -36,7 +36,7 @@ This is the content of your game. They’re things that can change depending on 
 
 [[Characters]]
 
-[[Level summaries]]
+[[Levels]]
 
 ---
 
