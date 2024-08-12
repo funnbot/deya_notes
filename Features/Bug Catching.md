@@ -1,5 +1,5 @@
 # Context
-Entomologist that lives in the village wants to expand their collection of live specimens and requests help from the #PC in exchange for bugs the entomologist will give varying sums of money or e
+Entomologist that lives in the village wants to expand their collection of live specimens and requests help from the #PC in exchange for bugs the entomologist will give varying sums of money or even prizes to entice the player to continue catching rather than just for the sake of it. Bugs if duplicates can also be sold for gold furthering #PC wealth
 ## Hypothesis
 What is the impact this feature is going to have on the player? How does it link to your design pillars?
 ## Measuring success
