@@ -17,7 +17,7 @@ Write down a summary of how the feature works. Include images or sketches if you
  /l
   ^
 ## Flow
-#PC gets request for bug from entomologist 
+#PC gets request for bug from entomologist-> #PC acquires net-> #PC promised reward for bug-> #PC find b
 ## Values
 If this is a feature that has values attached to it then define them here.
 Add a link to your [machinations](https://machinations.io/) diagram if you have one.
