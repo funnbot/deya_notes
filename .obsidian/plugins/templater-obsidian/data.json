@@ -17,6 +17,10 @@
     {
       "folder": "Characters",
       "template": "templates/Character.md"
+    },
+    {
+      "folder": "Features",
+      "template": "templates/Feature.md"
     }
   ],
   "syntax_highlighting": true,
