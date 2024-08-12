@@ -1,7 +1,8 @@
 # Context
 Entomologist that lives in the village wants to expand their collection of live specimens and requests help from the #PC in exchange for bugs the entomologist will give varying sums of money or even prizes to entice the player to continue catching rather than just for the sake of it. Bugs if duplicates can also be sold for gold furthering #PC wealth
 ## Hypothesis
-What is the impact this feature is going to have on the player? How does it link to your design pillars?
+The impact of this feature will lead to hopefully some sort of bug exhibit where the #PC csn view the spoils of thier
+What is the impact this feature is going to have on the player? How does it link to your design pill
 ## Measuring success
 Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
 # Design
