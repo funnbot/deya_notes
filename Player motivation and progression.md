@@ -12,7 +12,7 @@ What is your player’s primary motivation? What thing drives them in life? (See
 
 **Secondary motivations**
 
-Potentially mon ey,
+Potentially money, friendship, or progress
 
 What other motivations drive your player, if any.
 
