@@ -6,7 +6,7 @@ Explore colorful dungeons for loots and special items to help you get stronger: 
 
 Farming, the #PC can till the land or ranch special monstery animals to gain their products, these products sell for money which the #PC can use to upgrade their farm, buy gifts for npcs, or decorate their living space! Loop: #PC wants to upgrade farm or buy item-> #PC grows and waters crops to produce product to sell or nurtures animals to gain product to sell-> #PC sells product and gains money-> #PC is able to upgrade farm or purchase the item they want with new gold.
 
-Unsure about this one but artifact sifting/finding shinies is one of my favorite activities in game
+Unsure about this one but artifact sifting/finding shinies is one of my favorite activities in games and irl so maybe a sifting or panning mini game where the player can gain access to rare materials, artifacts and gems by sifting through archeological digs. I 
 
 
 In here write down your game loops. What does your player do moment by moment?
