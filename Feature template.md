@@ -1,16 +1,16 @@
 # Farming
-Context:
+## Context
 
 # Ranching
-Context:
+## Context
 
 # Combat/dungeon crawling
-Context:
+## Context
 # Friendship
-Context:
+## Context
 
 # Bug catching
-Context
+## Context
 
 # Decorating 
 ## Context
