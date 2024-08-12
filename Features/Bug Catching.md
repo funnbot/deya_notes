@@ -12,9 +12,10 @@ if #PC just clicks interact with net they will swing at regular height, but if t
 
 Write down a summary of how the feature works. Include images or sketches if you have any.
 ## User journey
-  
- O/ Sketch out screens of what the player will see and do, step by step.
+ .   P
+ O/ 
  /l
+  
 ## Flow
 Create a flow diagram of how the feature works.
 ## Values
