@@ -1,8 +1,13 @@
-Farming
-Ranching
+# Farming
+Context:
+
+# Ranching
+C
 Combat/dungeon crawling
 Friendship
-Bug catchung
+Bug catching
+Decorating 
+Upgrading
 
 
 # Context
