@@ -15,7 +15,6 @@ Create a flow diagram of how the feature works.
 If this is a feature that has values attached to it then define them here.
 Add a link to your [machinations](https://machinations.io/) diagram if you have one.
 For example:
-[[Resources produced by chopping trees]]
 ## Edge cases
 Are there any situations where this feature needs to behave a little bit differently?
 # Research and testing
