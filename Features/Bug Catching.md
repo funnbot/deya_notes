@@ -8,7 +8,7 @@ Write down how you are going to test that this feature works. What metrics are y
 # Design
 #PC can carry a net in their inventory at all times if they wish and will be pressing the interact button to swing their net to catch bugs in front of them, 
 ## Summary
-if #PC just clicks interact with net they will swing at regular height, but if they hold interact the #PC will crouch and hit the ground catching ground bugs instead of airborne ones
+if #PC just clicks interact with net they will swing at regular height, but if they hold interact the #PC will crouch and hit the ground catching ground bugs instead of airborne ones, maybe we could even crouch walk with the net?
 
 Write down a summary of how the feature works. Include images or sketches if you have any.
 ## User journey
