@@ -1,7 +1,8 @@
 # Summary
 **A creepy cute monster themed farming simulator.**
 
-#PC is a paranormal investigator going to the town of #Dia_Luna, upon initial explorations #PC runs into the town’s witch and bumping into her knocking a handful of rare newts and toads out of her basket while completely unaware of her presence as player character was attempting to get a photograph of something rustling in the bushes near by. #PC is startled and covered in amphibians and attempts to collect them before they scurry off to no avail. The witch displeased and enraged that she just lost a large ingredient haul curses the #PC altering their appearance to a monster (I haven’t picked yet) before flying off, knocking #PC unconscious in the process. Time passes and player character is woken up by honey (maybe?) and she doesn’t even know that #PC was once human she immediately assumes they’re a displaced monster and brings them to #Dia_Luna.
+#PC is a paranormal investigator going to the town of #Dia_Luna, upon initial explorations #PC runs into the town’s witch and bumping into her knocking a handful of rare newts and toads out of her basket while completely unaware of her presence as player character was attempting to get a photograph of something rustling in the bushes near by. #PC is startled and covered in amphibians and attempts to collect them before they scurry off to no avail. The witch displeased and enraged that she just lost a large ingredient haul curses the #PC altering their appearance to a monster (I haven’t picked yet) before flying off, knocking #PC unconscious in the process. Time passes and player character is woken up by honey (maybe?) and she doesn’t even know that #PC was once human she immediately assumes they’re a displaced monster and brings them to #Dia_Luna. 
+
 # Core
 This is the core of your game. Start by filling out these sections. Once filled out they should never change or change very little. Use them as a reference throughout development.
 
