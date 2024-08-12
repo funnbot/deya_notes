@@ -6,7 +6,7 @@ Identify what your player’s core motivation is and how the player progresses.
 
 **Primary motivation**
 
-Primary motivation is to collect the rare items the witch has asked the #PC to get in order for her to turn them back into a human, hopefully overtime the 
+Primary motivation is to collect the rare items the witch has asked the #PC to get in order for her to turn them back into a human, hopefully overtime the #PC will learn to love the town and residents of #Dia_Luna and when all items are collected and given to the witch they can decide to stay and continue their life as a mo
 
 What is your player’s primary motivation? What thing drives them in life? (See the talks and pdf in further reading for examples.)
 
