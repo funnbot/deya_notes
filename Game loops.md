@@ -1,6 +1,7 @@
 # Game loops
 
-Enjoy idle conversation and building relationships with npcs, potentially even romantic relationships : loop: talk to npc->learn more about them-> become friends or romantic 
+Enjoy idle conversation and building relationships with npcs, potentially even romantic relationships : loop: talk to npc->learn more about them-> become friends or romantically inclined 
+
 
 In here write down your game loops. What does your player do moment by moment?
 
