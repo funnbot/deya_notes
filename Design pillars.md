@@ -1,5 +1,9 @@
 # Design pillars
 
+Creation and Development of your own special place that is designed just for you
+ Making friends
+ Building monetary wealth and exceeding in your desired field of gameplay (farming , combat, treasure hunting)
+
 Write down your design pillars. This is the foundation of your game and should never change. Your whole design should tie back to these pillars.
 
 For example:
