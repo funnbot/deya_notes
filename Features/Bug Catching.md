@@ -1,5 +1,5 @@
 # Context
-Entomologist that lives in the village wants to expand their co
+Entomologist that lives in the village wants to expand their collection of live specimens and requests help from the #PC in exchange for bugs the entomologist will give varying sums of money or e
 ## Hypothesis
 What is the impact this feature is going to have on the player? How does it link to your design pillars?
 ## Measuring success
