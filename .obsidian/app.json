@@ -20,7 +20,8 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:toggle-keyboard"
+    "editor:toggle-keyboard",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
   ],
   "propertiesInDocument": "source",
   "showUnsupportedFiles": true
