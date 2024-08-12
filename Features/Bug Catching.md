@@ -20,13 +20,10 @@ Write down a summary of how the feature works. Include images or sketches if you
 #PC gets request for bug from entomologist-> #PC acquires net-> #PC promised reward for bug-> #PC find bug-> #PC catch bug-> #PC delivers bug to entomologist-> #PC receives reward-> repeat
 ## Values
 Bugs get you both rewards from the entomologist as well as money if you sell them
-If this is a feature that has values attached to it then define them here.
-Add a link to your [machinations](https://machinations.io/) diagram if you have one.
-For example:
-[[Resources produced by chopping trees]]
 ## Edge cases
-Are there any situations where this feature needs to behave a little bit differently?
+Maybe a floor catching mechanic like I explained earlier but it’s not necessary
 # Research and testing
+I make bug, I make pc
 How are you going to test this feature at different stages of development?
 For example:
 [[Testing plan]]
