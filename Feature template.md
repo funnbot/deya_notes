@@ -2,10 +2,14 @@
 Context:
 
 # Ranching
-C
-Combat/dungeon crawling
-Friendship
-Bug catching
+Context:
+
+# Combat/dungeon crawling
+Context:
+# Friendship
+Context:
+
+# Bug catching
 Decorating 
 Upgrading
 
