@@ -23,7 +23,7 @@ Bugs get you both rewards from the entomologist as well as money if you sell the
 ## Edge cases
 Maybe a floor catching mechanic like I explained earlier but it’s not necessary
 # Research and testing
-I make bug, I make pc
+I make bug asset, I make pc asset, I make net asset, bean code bug movement depending on bug, bean program pc move
 How are you going to test this feature at different stages of development?
 For example:
 [[Testing plan]]
