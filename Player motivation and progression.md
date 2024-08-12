@@ -19,7 +19,7 @@ What other motivations drive your player, if any.
 # Progression
 
 
-#PC wishes to get back to the human world / become human again, #PC is given the opportunity by 
+#PC wishes to get back to the human world / become human again, #PC is given the opportunity by the witch to earn their way back to this goal by giving them a plot of her land to begin cultivating ingredients for her.
 
 How does the core action in the game support your player’s primary motivation?
 
