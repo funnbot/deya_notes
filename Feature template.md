@@ -13,12 +13,7 @@
 ## Context
 
 # Decorating 
-## Context
-
-# Upgrading
-## Context
-
-
+## Context 
 # Context
 Write a sentence or two about why this feature is necessary and how it came to be.
 ## Hypothesis
