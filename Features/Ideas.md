@@ -3,9 +3,14 @@ I like the idea of water magic instead of a watering can
 #PC  maybe can summon a little mouse that tills the land 
 No real time simulation, days have a static like 24 minutes total
 It’s probably gonna be tedious in the beginning cause #PC will be using their magic on one tile at a time
+Maybe starting the alchemy could be good? Like the #PC plants and grows crops to make into potions and spells that speed up the process so they can “win” faster?
 
 ## loops?
-Npc is on the farm and requests specific items and #PC gets rewarded for planting and growing those items. 
+Npc is on the farm and requests specific items and #PC gets rewarded with money and maybe a decoration for planting and growing those items. 
+
+#PC tills soil, #PC plants crop, #PC waters crop, #PC repeats watering until harvest, #PC harvests crop, #PC brings crop to cauldron, #PC begins experimenting with potions, #PC makes a potion that increases their mouse count or range of their water magic, #PC plants new crops to start t
+
+
 
 
 # Context
