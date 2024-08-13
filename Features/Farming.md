@@ -3,6 +3,7 @@
 ## Hypothesis
 Mechanically this will be one of the biggest features of the game it’s going to be the way the player makes money and potentially if we do the potions thing it will lead to another feature
 
+![[Farming 2024-08-13 16.30.05.excalidraw]]
 ## Measuring success
 Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
 # Design
