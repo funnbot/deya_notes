@@ -1,6 +1,13 @@
 # Farming ideas
-I like the idea of water magic instead of a watering ca
-Player 
+I like the idea of water magic instead of a watering can
+#PC  maybe can summon a little mouse that tills the land 
+No real time simulation, days have a static like 24 minutes total
+It’s probably gonna be tedious in the beginning cause #PC will be using their magic on one tile at a time
+
+## loops?
+Npc is on the farm and requests specific items and #PC gets rewarded for planting and growing those items. 
+
+
 # Context
 Write a sentence or two about why this feature is necessary and how it came to be.
 ## Hypothesis
