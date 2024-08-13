@@ -1,8 +1,8 @@
 # Context
-#PC has two items related to farming, a hoe for tilling the land and a watering can for watering crops. 
-Write a sentence or two about why this feature is necessary and how it came to be.
+#PC has two items related to farming, a hoe for tilling the land and a watering can for watering crops. This mechanic will be one of the main ways that the #PC will be able to acquire wealth through selling, potentially maybe a spell casting or potion making mechanic after crops have been harvested? But baseline #PC is caring for harvesting and selling crops.
 ## Hypothesis
-What is the impact this feature is going to have on the player? How does it link to your design pillars?
+
+
 ## Measuring success
 Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
 # Design
