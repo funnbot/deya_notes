@@ -5,9 +5,7 @@
 
 # Core
 This is the core of your game. Start by filling out these sections. Once filled out they should never change or change very little. Use them as a reference throughout development.
-
 ### [[Design pillars]]
-
 ### [[Game loops]]
 ### [[Player motivation and progression]]
 # Features
