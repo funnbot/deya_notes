@@ -13,6 +13,8 @@ Relationships with fictional characters.
 ## Skill Activities
 # Features
 # Notes
+### Combat
+combat gets bland
 ### Interconnected
 There is a lot of activities to do, and each one feeds the others.
 # Guy on the Internet
