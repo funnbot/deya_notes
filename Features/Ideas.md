@@ -1,4 +1,6 @@
-
+# Farming ideas
+I like the idea of water magic instead of a watering ca
+Player 
 # Context
 Write a sentence or two about why this feature is necessary and how it came to be.
 ## Hypothesis
