@@ -19,6 +19,16 @@ Npc is on the farm and requests specific items and #PC gets rewarded with money 
 #PC tills soil, #PC plants crop, #PC waters crop, #PC repeats watering until harvest, #PC harvests crop, #PC brings crop to cauldron, #PC begins experimenting with potions, #PC makes a potion that increases their mouse count or range of their water magic, #PC plants new crops to start the cycle again
 
 
+### punishments 
+
+Maybe #PC can eat food to regain energy but has a hunger bar that fills up so they have to stop eating once they’re full and therefore go to the next day for an empty stomach
+
+Or maybe over the course of eating food to regain energy it does less and less as the day goes on 
+
+
+
+
+
 
 
 # Context
