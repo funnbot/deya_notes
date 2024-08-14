@@ -12,8 +12,11 @@
 	- Inventory isn’t big yet 10 slots for now, shown on the lower/bottom half of the screen centered 
 	-  #PC can use scroll wheel to move through inventory quickly or fine tune with number keys 1-10
 		- Inventory will take priority over magic wheel scroll, unless #PC  is holding shift, the inventory cursor will only move in the players inventory not the spell wheel.
+- When hovering over an item a small text box will describe the item, this text box will be to the items right
 - crafting
-	- #PC can hover over the cauldron and press 
+	- #PC can hover over the cauldron and press M2 to interact with it
+		- Interacting with it will cause the crafting menu to pop up
+		- #PC can read item descriptions and make assumptions about the ingredients and how they interact. An example would be while hovering over an item a the #PC reads that mystic corn is the favorite food of tilling m
 -  #PC 
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
