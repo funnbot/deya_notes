@@ -19,6 +19,9 @@ Npc is on the farm and requests specific items and #PC gets rewarded with money 
 #PC tills soil, #PC plants crop, #PC waters crop, #PC repeats watering until harvest, #PC harvests crop, #PC brings crop to cauldron, #PC begins experimenting with potions, #PC makes a potion that increases their mouse count or range of their water magic, #PC plants new crops to start the cycle again
 
 
+### Ideal player day?
+#PC wakes up and begins loop
+
 ## punishments 
 
 Maybe #PC can eat food to regain energy but has a hunger bar that fills up so they have to stop eating once they’re full and therefore go to the next day for an empty stomach
@@ -34,6 +37,7 @@ Skill gain
 New spells 
 More magic
 
+Maybe for current build the incentive could be making a certain amount of money by the end of 7 days?
 
 
 
