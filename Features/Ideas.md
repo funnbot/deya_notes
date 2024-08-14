@@ -3,9 +3,10 @@ I like the idea of water magic instead of a watering can
 #PC  maybe can summon a little mouse that tills the land 
 No real time simulation, days have a static like 24 minutes total
 It’s probably gonna be tedious in the beginning cause #PC will be using their magic on one tile at a time
+more mystical than stardew, less tools and more magic.
 Maybe starting the alchemy could be good? Like the #PC plants and grows crops to make into potions and spells that speed up the process so they can “win” faster?
 
-I think a day time and energy meter are good ideas as I don’t wanna do rts
+I think a day time and energy meter
 
 Maybe each “action” the #PC  does costs 1 energy or something and they only have like 30 energy
 
@@ -43,7 +44,8 @@ Maybe for current build the incentive could be making a certain amount of money 
 
 
 
-
+### Cauldron
+experiment with ingredients to find new recipes.
 
 # Context
 Write a sentence or two about why this feature is necessary and how it came to be.
