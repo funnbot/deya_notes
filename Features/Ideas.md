@@ -1,8 +1,13 @@
 # Farming ideas
 
 - #PC has magic that can be used to till land and water crops
-	- #PC presses M1 to activate spell
-	-  #PC has a spell wheel that can be scrolled throu
+	- #PC presses shift M1 to activate spell
+	-  #PC has a spell wheel that can be scrolled through with scroll wheel or fine positioned with number keys
+	-  #PC holds shift to bring up the wheel menu (later when there are more spells you’ll have like a set amount of spell slots and you can mix and match for what you need)
+		- the spell wheel is its own separate entity different from the inventory 
+-  inventory, the #PC will have an inventory that can contain items like seeds, decorations and crops 
+	- Accessing this inventory can be triggered with the E key
+	-  when #PC 
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
 - #PC has a set amount of energy in the day that can be refilled but refilling becomes less effective the later it gets
