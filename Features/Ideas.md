@@ -11,7 +11,7 @@
 
 
 I like the idea of water magic instead of a watering can
-#PC  maybe can summon a little mouse that tills the land 
+#PC maybe can summon a little mouse that tills the land 
 No real time simulation, days have a static like 24 minutes total
 It’s probably gonna be tedious in the beginning cause #PC will be using their magic on one tile at a time
 more mystical than stardew, less tools and more magic.
