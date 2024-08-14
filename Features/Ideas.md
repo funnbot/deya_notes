@@ -1,6 +1,8 @@
 # Farming ideas
 
 - #PC has magic that can be used to till land and water crops
+	- #PC presses M1 to activate spell
+	-  #PC has a spell wheel that can be scrolled throu
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
 - #PC has a set amount of energy in the day that can be refilled but refilling becomes less effective the later it gets
