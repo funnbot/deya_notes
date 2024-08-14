@@ -21,15 +21,17 @@
 			- Potentially placement of the mice could very by players facing direction
 		- The same can happen for the watering spell just with different ingredients
 -  #PC can take these crafted items and use them only once, to get an additional upgrade they will need to create a stronger version of the previous craftable item.
-		- #PC can also sell these lesser craftable items for a bit 
+		- #PC can also sell these lesser craftable items for a bit more than the sum of their parts to make more money than just selling the corn or lily on its own.
 -  #PC 
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
 - #PC has a set amount of energy in the day that can be refilled but refilling becomes less effective the later it gets
+	- a mana meter maybe for using your spells.
 	- #PC can reset this by sleeping for an amount of time 
 	- idk how much time though.
 - when #PC sleeps time moves forward, maybe a set amount?
 - #PC can also earn money from selling the crops they grow and potions they make, to decorate their farm
+	- #PC can hold items out by having their inventory curser over them and place them with M1, and remove them to have the, fall back in their inventory with M2. This placement range is the same range the #PC always has for themselves, which is a 3x3 tile area with the middle tile being the tile the player is standing in. Anywhere in this 3x3 area the #PC can place items by clicking M1 on the exact tile they want or if cursor is off screen the object will be placed directly in front of the #PC 
 
 
 I like the idea of water magic instead of a watering can
