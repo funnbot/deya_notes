@@ -24,5 +24,7 @@
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
   ],
   "propertiesInDocument": "source",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
 }
