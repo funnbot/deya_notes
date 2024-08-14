@@ -22,4 +22,3 @@ Are there any situations where this feature needs to behave a little bit differe
 # Research and testing
 How are you going to test this feature at different stages of development?
 For example:
-[[Testing plan]]

@@ -1,9 +1,9 @@
 # Context
-Write a sentence or two about why this feature is necessary and how it came to be.
-### Hypothesis
-Player impact. Link to design pillars.
-### Measuring success
-How to tell if the feature is fun during playtesting.
+ Collectable resources, crafting output, placeable decorations. 
+## Hypothesis
+What is the impact this feature is going to have on the player? How does it link to your design pillars?
+## Measuring success
+Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behaviour are you expecting (if you’re doing playtesting)?
 # Design
 ## Summary
 Write down a summary of how the feature works. Include images or sketches if you have any.
