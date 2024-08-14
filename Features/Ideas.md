@@ -1,4 +1,6 @@
 # Farming ideas
+
+• #PC has magic t
 I like the idea of water magic instead of a watering can
 #PC  maybe can summon a little mouse that tills the land 
 No real time simulation, days have a static like 24 minutes total
