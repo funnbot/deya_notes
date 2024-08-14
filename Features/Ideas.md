@@ -16,7 +16,12 @@
 - crafting
 	- #PC can hover over the cauldron and press M2 to interact with it
 		- Interacting with it will cause the crafting menu to pop up
-		- #PC can read item descriptions and make assumptions about the ingredients and how they interact. An example would be while hovering over an item a the #PC reads that mystic corn is the favorite food of tilling mice (the kind you summon to till your land with your spells) the #PC also reads that mirror lilies aid in duplication so the #PC moves the items from their inventory by clicking with M1 and moving it with the cursor to drop them in the cauldron, (maybe a bit of stirring animation, or some fanfare) and the #PC now no longer has the 2 previous items but instead  in the #PC inventory will now be something like super tilling mice feed that the player can use to upgrade/permenantly increase their number of tilling mice to +1 or something 
+		- #PC can read item descriptions and make assumptions about the ingredients and how they interact. An example would be while hovering over an item a the #PC reads that mystic corn is the favorite food of tilling mice (the kind you summon to till your land with your spells) the #PC also reads that mirror lilies aid in duplication so the #PC moves the items from their inventory by clicking with M1 and moving it with the cursor to drop them in the cauldron, (maybe a bit of stirring animation, or some fanfare) and the #PC now no longer has the 2 previous items but instead  in the #PC inventory will now be something like super tilling mice feed that the player can use to upgrade/increase their number of tilling mice to +1 or something 
+		- With 2 tilling mice the #PC can now till 4tiles total instead of 1 in a 2x2 plot in front of the player 
+			- Potentially placement of the mice could very by players facing direction
+		- The same can happen for the watering spell just with different ingredients
+-  #PC can take these crafted items and use them only once, to get an additional upgrade they will need to create a stronger version of the previous craftable item.
+		- #PC can also sell these lesser craftable items for a bit 
 -  #PC 
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
