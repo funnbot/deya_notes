@@ -9,6 +9,11 @@
 -  inventory, the #PC will have an inventory that can contain items like seeds, decorations and crops 
 	- Accessing this inventory can be triggered with the E key
 	-  when #PC has an object in hand it can be placed in their general area of 3x3 tiles, its orientation (if applicable) can be fine tuned by hovering over a tile in the players 3x3 reach and pressing M1, to remove the item (if applicable press M2 while hovering over the item to return it to #PC inventory)
+	- Inventory isn’t big yet 10 slots for now, shown on the lower/bottom half of the screen centered 
+	-  #PC can use scroll wheel to move through inventory quickly or fine tune with number keys 1-10
+		- Inventory will take priority over magic wheel scroll, unless #PC  is holding shift, the inventory cursor will only move in the players inventory not the spell wheel.
+- crafting
+	- #PC can hover over the cauldron and press 
 -  #PC 
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
