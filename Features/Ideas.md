@@ -11,7 +11,7 @@ Maybe each “action” the #PC  does costs 1 energy or something and they only 
 
 Incentive could be learning about a character or growing wealth or gaining decorations ?
 
-
+Punishment for not going to next day
 
 ## loops?
 Npc is on the farm and requests specific items and #PC gets rewarded with money and maybe a decoration for planting and growing those items. 
