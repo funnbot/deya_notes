@@ -1,6 +1,12 @@
 # Farming ideas
 
-• #PC has magic t
+• #PC has magic that can be used to till land and water crops
+• #PC objective is to upgrade these magical abilities to make planting and watering less tedious
+• #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
+• #PC has a set amount of energy in the day that can be refilled but refilling becomes less effective the later it gets
+• #PC can reset this by sleeping for an amount of time 
+• when #PC sleeps time moves forward, maybe a set amount?
+• #PC can also earn money from the crops they grow a
 I like the idea of water magic instead of a watering can
 #PC  maybe can summon a little mouse that tills the land 
 No real time simulation, days have a static like 24 minutes total
