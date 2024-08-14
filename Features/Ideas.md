@@ -4,11 +4,10 @@
 - #PC objective is to upgrade these magical abilities to make planting and watering less tedious
 - #PC can upgrade magic using some sort of crafting system to make spells or potions that upgrade their farming abilities
 - #PC has a set amount of energy in the day that can be refilled but refilling becomes less effective the later it gets
-- #PC can reset this by sleeping for an amount of time 
+	- #PC can reset this by sleeping for an amount of time 
+	- idk how much time though.
 - when #PC sleeps time moves forward, maybe a set amount?
 - #PC can also earn money from selling the crops they grow and potions they make, to decorate their farm
-	- 
-- 
 
 
 I like the idea of water magic instead of a watering can
