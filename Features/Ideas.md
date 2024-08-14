@@ -13,6 +13,8 @@ Incentive could be learning about a character or growing wealth or gaining decor
 
 Punishment for not going to next day
 
+Crops grow overnight
+
 ## loops?
 Npc is on the farm and requests specific items and #PC gets rewarded with money and maybe a decoration for planting and growing those items. 
 
