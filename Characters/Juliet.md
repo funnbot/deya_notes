@@ -7,8 +7,8 @@ Hobbies: Cheer, Dance, Cultivating plants (Specifically flowers)
 Dreams for the Future: To breed new hybrid flower species to sell them in arrangements she makes and work on her graveyard garden enough to cultivate a Midnight Lily
 Likes:  Flowers, Dancing, Rabbits, 
 Dislikes: Bugs, Alcohol,  Heat, 
-Strengths: Green Thumb (literally hehe), Very Friendly, 
-Weaknesses: Clumsy, Naive, Slightly ditzy, 
+Strengths: Green Thumb (literally hehe), Very Friendly almost to a faul, 
+Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, 
 ### Favorites
 Color: Pink
 Flower: Lily
