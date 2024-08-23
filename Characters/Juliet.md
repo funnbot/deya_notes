@@ -11,6 +11,8 @@ Dislikes: Bugs, Alcohol,  Heat, Hot liquids and foods, Hair Dye, Snakes
 Strengths: Green Thumb (literally hehe), Very Friendly almost to a fault, Strong sense of justice 
 Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, Forgetful, Distrustful of men/male presenting people
 Simplified Personality: On the surface Juliet could be seen as the ditzy cheer leader trope from other medias, but a look deeper into her reveals her strong sense of justice, her sweet at caring demeanor, and her willingness to preserve despite not being used to her zombie body despite its hardships and missing memories. Overall an optimist who is constantly striving to improve herself and the world around her.
+Friends:
+Fami
 
 ### Favorites
 Color: Pink
@@ -23,6 +25,8 @@ Season: Originally Summer when she was alive, but now that she’s undead the Su
 
 
 ## Personality 
+
+Juliet is a young energetic newly turned zombie
 
 ## Backstory 
 
