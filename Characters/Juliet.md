@@ -5,11 +5,12 @@ Age: 26
 Occupation: College Student: While alive major was Nursing, now undead her major is now horticulture
 Hobbies: Cheer, Dance, Cultivating plants (Specifically flowers)
 Dreams for the Future: To breed new hybrid flower species to sell them in arrangements she makes and work on her graveyard garden enough to cultivate a Midnight Lily
-Likes:  Flowers, Dancing, Rabbits, 
+Likes:  Flowers, Dancing, Rabbits,  Low Temperature,
 Dislikes: Bugs, Alcohol,  Heat, 
 Strengths: Green Thumb (literally hehe), Very Friendly almost to a fault, Strong sense of justice 
-Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, Forgetful
-Simplified Personality: On the surface Juliet could be seen as the ditzy cheer leader trope from other medias, but a look deeper into her reveals her strong sense of justice, her sweet at caring demeanor, 
+Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, Forgetful, Distrustful of men/male presenting people
+Simplified Personality: On the surface Juliet could be seen as the ditzy cheer leader trope from other medias, but a look deeper into her reveals her strong sense of justice, her sweet at caring demeanor, and her willingness to preserve despite not being used to her zombie body despite its hardships and missing memories. Overall an optimist who is constantly striving to improve herself and the world around her.
+
 ### Favorites
 Color: Pink
 Flower: Lily
