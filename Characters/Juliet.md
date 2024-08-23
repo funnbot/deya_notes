@@ -7,8 +7,9 @@ Hobbies: Cheer, Dance, Cultivating plants (Specifically flowers)
 Dreams for the Future: To breed new hybrid flower species to sell them in arrangements she makes and work on her graveyard garden enough to cultivate a Midnight Lily
 Likes:  Flowers, Dancing, Rabbits, 
 Dislikes: Bugs, Alcohol,  Heat, 
-Strengths: Green Thumb (literally hehe), Very Friendly almost to a faul, 
-Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, 
+Strengths: Green Thumb (literally hehe), Very Friendly almost to a fault, Strong sense of justice 
+Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, Forgetful
+Simplified Personality: On the surface Juliet could be seen as the ditzy cheer leader trope from other medias, but a look deeper into her reveals her strong sense of justice, her sweet at caring demeanor, 
 ### Favorites
 Color: Pink
 Flower: Lily
