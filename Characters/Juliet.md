@@ -25,5 +25,5 @@ Season: Originally Summer when she was alive, but now that she’s undead the Su
 
 ## Backstory 
 
-Juliet is a semi newly turned zombie, who originally was your typical college girl, part of a sorority, working towards her degree in nursing, planning events centered around her adult cheer squad and enjoying time with her friends at parties and school ev
+Juliet is a semi newly turned zombie, who originally was your typical college girl, part of a sorority, working towards her degree in nursing, planning events centered around her adult cheer squad and enjoying time with her friends at parties and school events. Juliet turning starts out 
 
