@@ -26,7 +26,7 @@ Season: Originally Summer when she was alive, but now that she’s undead the Su
 
 ## Personality 
 
-Juliet is a young energetic newly turned zombie
+Juliet is a young energetic and bubbly newly turned zombie
 
 ## Backstory 
 
