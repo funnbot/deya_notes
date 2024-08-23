@@ -1,3 +1,12 @@
 # Juliet Kennedy 
-# Name
-Juliet’s name is subject to 
+## Details
+Age:
+Occupation: 
+Hobbies: 
+
+
+## Personality 
+
+## Backstory 
+
+
