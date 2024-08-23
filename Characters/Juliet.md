@@ -12,7 +12,7 @@ Strengths: Green Thumb (literally hehe), Very Friendly almost to a fault, Strong
 Weaknesses: Clumsy, Naive, Slightly ditzy, Prone to loosing limbs, Forgetful, Distrustful of men/male presenting people
 Simplified Personality: On the surface Juliet could be seen as the ditzy cheer leader trope from other medias, but a look deeper into her reveals her strong sense of justice, her sweet at caring demeanor, and her willingness to preserve despite not being used to her zombie body despite its hardships and missing memories. Overall an optimist who is constantly striving to improve herself and the world around her.
 Friends:
-Family: Juliet has no actual undead family but rather  
+Family: Juliet has no actual undead family but rather she lives with another zombie villager how has taken her under his wing, a 36 year old zombie named 
 
 ### Favorites
 Color: Pink
