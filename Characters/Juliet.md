@@ -21,6 +21,7 @@ Weather: Originally warm summer days when she was alive, but now that she’s un
 Season: Originally Summer when she was alive, but now that she’s undead the Summer heat is too harsh on her undead body to be out for long periods of time. Fall is her current favorite season
 
 
+
 ## Personality 
 
 ## Backstory 
@@ -29,3 +30,8 @@ Synopsis: Juliet was an average college student, with decent grades, great frien
 ### Full story:
 Juliet is a semi newly turned zombie, who originally was your typical college girl, part of a sorority, working towards her degree in nursing, planning events centered around her adult cheer squad and enjoying time with her friends at parties and school events. She was well known around her campus a puller of positivity and encouragement, who was very involved with the school.Juliet story starts out on a day like any other for her, she’s finished classes for the day and is getting ready for a party her friends were invited to to be their designated driver and mom friend of the party. After arriving at the party Juliet met up with 3 of her 4 friends to check in on them, they were all quite tipsy and didn’t know where their fourth went. Juliet learned from her friend Katlyn that the missing fourth friend Jennifer had been last seen walking towards the drinks table with a member of the football team. Juliet made her way through the party searching for Jennifer getting more and more worried each corner she durned and eat each door she checked. Until she came upon one of the final doors in the hallway. Behind this door were hushed voices in low tones, Juliet braced herself and pushed the door open to see Jennifer passed out on the bed  with 2 larger men standing beside her. Her eyes darted around the room taking hold of the situation at hand, she realized while nothing had happened yet something was about to and she needed to get out now, someone had to know, she had to tell someone. Falling backwards out of the door she bumped into the large chest of the fourth member of this group. Juliet whipped her head back to meet the gaze of the quarterback who then proceeded to shove her to the ground. As her head fell her head landed on something hard, which went from dry to something warm, something wet. The room spun, her head felt hot she heard whispered shouting between the players about what to do about her. The room slowly turning darker and darker as she heard the last words out of the quarterbacks mouth “ We need to get rid of her, that’s Juliet Kennedy you fucking morons.” Her head felt warm and wet against the cold leather car seat hushed whispers coming from the two boys in the front seat speaking to an overpowering presence holding her neck down in the backseat.  The boy driving was speaking to the person in the back seat, “My dads gonna kill me those seats are real leather Marcus.” He turned his head back to meet Juliet’s eyes halting his speech before taking a sharp inhale
 
+
+# Cutscenes 
+
+## Early Game
+Don’t know how we are gonna implement these just yet but one of the first ones I want the player to experience after meeting juliet
