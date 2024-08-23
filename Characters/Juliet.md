@@ -34,4 +34,4 @@ Juliet is a semi newly turned zombie, who originally was your typical college gi
 # Cutscenes 
 
 ## Early Game
-Don’t know how we are gonna implement these just yet but one of the first ones I want the player to experience after meeting juliet
+Don’t know how we are gonna implement these just yet but one of the first ones I want the #PC  to experience after meeting Juliet. The #PC  will come across Juliet in her garden where she will call the #PC  over. “ Hey! #PC !” She waves her right arm in the air slightly vigorously excited to see the #PC and potentially make a new friend.  If the #PC  
