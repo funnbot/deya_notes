@@ -13,7 +13,6 @@ Relationships with fictional characters.
 ## Skill Activities
 # Features
 # Notes
-
 ### Combat
 combat gets bland
 ### Interconnected
