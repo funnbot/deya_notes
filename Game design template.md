@@ -14,8 +14,13 @@ These are the features in your game. They’re game mechanics that apply through
 # Content
 This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different.
 ### [[Narrative summary]]
+<<<<<<< HEAD
 ### [[Characters/Characters]]
 ### [[Notes]]
+=======
+### [[Characters]]
+### [[Levels]]
+>>>>>>> 60ba4c8fc852d6b89b441c3091a651f65898824a
 ---
 # Content usage
 Template by Rosa Carbo-Mascarell | [Notion](https://glamorous-save-06a.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c) | [Twitter](https://twitter.com/moreelen) | [TikTok](https://www.tiktok.com/@moreelen)
