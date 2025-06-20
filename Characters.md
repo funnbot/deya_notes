@@ -4,4 +4,3 @@ file.link AS "Name"
 FROM "Characters"
 SORT file.name
 ```
-
