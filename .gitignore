@@ -3,6 +3,9 @@
 !.obsidian/plugins/templater-obsidian/
 !.obsidian/plugins/dataview/
 
+!.obsidian/plugins/obsidian-excalidraw-plugin/
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+
 .obsidian/themes/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
