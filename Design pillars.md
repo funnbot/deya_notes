@@ -3,7 +3,7 @@
 - Get money.
 - Collecting resources. 
 - Processing resources.
-- making a collection, all the bugs.
+- making a collection, all the bugs, fish and further the anthropological culture of Dia Luna.
 - decorating and displaying the collection.
 - making friends.
 - part of the community.

@@ -26,5 +26,6 @@
   "propertiesInDocument": "source",
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }
