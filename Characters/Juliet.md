@@ -1,5 +1,5 @@
-# Juliet Kennedy 
-## Details
+# Details
+
 Monster type: Undead: Zombie
 Age: 26
 Birthday: Mid Sol 14
